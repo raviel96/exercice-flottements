@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 600px;
+}
+.boite-1 {
+    width: 400px;
+    height: 250px;
+    background-color: violet;
+    float: left;
+    padding: 10px;
+}
+
+.boite-2 {
+    width: 200px;
+    height: 150px;
+    background-color: black;
+    float: left;
+    padding: 10px;
+}
+
+.clear {
+    clear: both;
+}

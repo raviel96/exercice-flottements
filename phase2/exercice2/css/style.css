@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 600px;
+}
+.boite-1 {
+    width: 400px;
+    height: 250px;
+    background-color: brown;
+    float: left;
+    border: 3px solid black;
+}
+
+.boite-2 {
+    width: 200px;
+    height: 150px;
+    background-color: aquamarine;
+    float: left;
+    border: 3px solid rebeccapurple;
+}
+
+.clear {
+    clear: both;
+}

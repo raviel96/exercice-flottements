@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: bisque;
+    padding: 10px;
+}
+
+.vignette {
+    float: left;
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}

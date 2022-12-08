@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: red;
+    padding: 15px;
+}
+
+.clear {
+    clear: both;
+}
+
+.chat-1 {
+    float: left;
+    margin: 10px 10px 10px 0;
+}
+.chat-2 {
+    float: right;
+    margin: 10px 0 10px 10px;
+}
+.chat-3 {
+    float: left;
+    margin: 10px 10px 10px 0;
+}
+

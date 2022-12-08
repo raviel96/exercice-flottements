@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 600px;
+}
+.boite-1 {
+    width: 400px;
+    height: 250px;
+    background-color: darkgreen;
+    float: left;
+    margin: 25px;
+}
+
+.boite-2 {
+    width: 200px;
+    height: 150px;
+    background-color: darkgoldenrod;
+    margin: 25px;
+}
+
+.clear {
+    clear: both;
+}

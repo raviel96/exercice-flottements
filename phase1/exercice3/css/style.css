@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: red;
+    padding: 15px;
+}
+
+.clear {
+    clear: both;
+}
+
+img {
+    float: left;
+    margin: 10px 10px 10px 0;
+}

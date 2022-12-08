@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 600px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+.colonne {
+    width: 225px;
+    float: left;
+}
+
+.boite-1 {
+    height: 250px;
+    background-color: darksalmon;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 25px;
+}
+
+.boite-2 {
+    height: 150px;
+    background-color: deeppink;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 25px;
+}
+
+.clear {
+    clear: both;
+}
